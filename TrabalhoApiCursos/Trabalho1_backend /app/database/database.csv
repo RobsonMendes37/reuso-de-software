@@ -1,7 +1,0 @@
-id,titulo,categoria,carga_horaria,nivel,preco,quantidade_vagas,instrutor,plataforma
-1,string,tecnologia,0,iniciante,0.0,0,string,string
-2,string,tecnologia,0,iniciante,0.0,0,string,string
-3,string,tecnologia,0,iniciante,0.0,0,string,string
-4,string,tecnologia,0,iniciante,0.0,0,string,string
-7,Introdução à Programação com Python Com matheus,tecnologia,45,iniciante,189.99,70,João Silva Martins,Udemy 2.0
-10,TesteFront,tecnologia,7,iniciante,14.0,20,Juior,AvanteTec
